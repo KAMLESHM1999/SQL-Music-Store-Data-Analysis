@@ -1,1 +1,1 @@
-This is SQL end to end project
+This is the SQL end to end project
